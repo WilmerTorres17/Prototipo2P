@@ -1,0 +1,126 @@
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe.config
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.pdb
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.AssemblyReference.cache
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmCobros.resources
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Properties.Resources.resources
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.GenerateResource.cache
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CoreCompileInputs.cache
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.exe
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.pdb
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmPagos.resources
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\MySql.Data.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Google.Protobuf.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Zstandard.Net.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Renci.SshNet.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\System.Buffers.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\System.Memory.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\MySql.Data.xml
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CopyComplete
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe.config
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.pdb
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\Google.Protobuf.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\Zstandard.Net.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\Renci.SshNet.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\System.Buffers.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\System.Memory.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\bin\Debug\MySql.Data.xml
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmCobros.resources
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmPagos.resources
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Properties.Resources.resources
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.GenerateResource.cache
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CopyComplete
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.exe
+C:\Users\jorgi\Desktop\Prototipo1P-Analisis-master\Mantenimientos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.pdb
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe.config
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.pdb
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\Google.Protobuf.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\Zstandard.Net.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\Renci.SshNet.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\System.Buffers.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\System.Memory.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\bin\Debug\MySql.Data.xml
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csprojAssemblyReference.cache
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmCobros.resources
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmPagos.resources
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Properties.Resources.resources
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.GenerateResource.cache
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CoreCompileInputs.cache
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CopyComplete
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.exe
+C:\Users\Wilmer\Desktop\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.pdb
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe.config
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.pdb
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\Google.Protobuf.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\Zstandard.Net.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\Renci.SshNet.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\System.Buffers.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\System.Memory.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\bin\Debug\MySql.Data.xml
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csprojAssemblyReference.cache
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmCobros.resources
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmPagos.resources
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Properties.Resources.resources
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.GenerateResource.cache
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CoreCompileInputs.cache
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CopyComplete
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.exe
+C:\Users\Wilmer\Desktop\C8\Analisis De Sistemas 2\Tareas\Parcial 1 - ADS2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.pdb
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\Prototipo1P.exe.config
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\Prototipo1P.exe
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\Prototipo1P.pdb
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\Google.Protobuf.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\Zstandard.Net.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\Renci.SshNet.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\System.Buffers.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\System.Memory.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\bin\Debug\MySql.Data.xml
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\obj\Debug\Prototipo1P.csprojAssemblyReference.cache
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\obj\Debug\Prototipo1P.frmCompraEncabezado.resources
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\obj\Debug\Prototipo1P.frmCompraDetalle.resources
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\obj\Debug\Prototipo1P.Properties.Resources.resources
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\obj\Debug\Prototipo1P.csproj.GenerateResource.cache
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CoreCompileInputs.cache
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CopyComplete
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\obj\Debug\Prototipo1P.exe
+C:\Users\Wilmer\Desktop\Parcial 2 - ADS2\Prototipo2P\Prototipo1P\obj\Debug\Prototipo1P.pdb
